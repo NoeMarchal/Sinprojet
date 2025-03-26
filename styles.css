@@ -1,5 +1,5 @@
 body, h1,p, img{
-    color: wheat;
+    color: rgb(235, 220, 195);
     background-image: url("Images/background.jpg");
     text-align: center;
 }
